@@ -4,7 +4,6 @@ A Simple Login & Signup app Using Epxressjs , Nodejs , MongoDB
 
 - [x] Nodejs
 - [x] Expressjs
-- [x] MongoDB
 
 
 ## Starting the dev server
